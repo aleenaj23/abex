@@ -52,4 +52,42 @@ The **Multi-Agent SEO Blog Generator** follows a **modular architecture** with c
 | **6️⃣ Use the Application** | Enter blog details, generate content, and download in various formats. |
 
 ---
+---
+
+## **📜 License**  
+
+This project is licensed under the **MIT License**.  
+
+You are free to **use, modify, and distribute** this software, provided that proper credit is given to the original author.  
+
+### **🔹 MIT License Summary:**  
+- ✅ **Free to use** for personal and commercial purposes.  
+- ✅ **Modify and distribute** with proper attribution.  
+- ❌ **No liability** or warranty provided by the author.  
+
+For detailed terms, see the **[LICENSE](LICENSE)** file in the repository.  
+
+---
+
+## **👨‍💻 Contributing**  
+
+Contributions are welcome! If you'd like to improve this project:  
+
+1. **Fork the repository**  
+2. **Create a new branch** (`feature-branch`)  
+3. **Commit your changes**  
+4. **Push to your fork and submit a Pull Request**  
+
+Feel free to open issues for bugs, feature requests, or questions!  
+
+---
+
+## **📞 Contact**  
+
+For any inquiries, feel free to reach out:  
+
+- **Email:** [aleenajk7@gmail.com](mailto:aleenajk7@gmail.com)  
+- **GitHub:** [aleenaj23](https://github.com/aleenaj23)  
+
+Happy coding! 🚀  
 
